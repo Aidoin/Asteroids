@@ -1,0 +1,17 @@
+{
+    "name": "Ship",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ef2fc2164b2f03d45b2da07365c319c7",
+        "GUID:fd30f2b7857cb00429dc69eb04031688"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
